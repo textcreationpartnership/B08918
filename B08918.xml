@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A descent from France:, or, The invasion of England, considered and discours'd</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08918</idno>
+            <idno type="STC">Wing D1137A</idno>
+            <idno type="STC">ESTC R224508</idno>
+            <idno type="EEBO-CITATION">64551163</idno>
+            <idno type="OCLC">ocm 64551163</idno>
+            <idno type="VID">184517</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08918)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184517)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2866:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A descent from France:, or, The invasion of England, considered and discours'd</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Humphryes , near the Oxford-Arms in Warwick-Lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Licens'd, May 10. 1692."</note>
+                  <note>Imperfect: broadside creased.</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Foreign relations --  France --  Early works to 1800.</term>
+               <term>France --  Foreign relations --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1689-1702 --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:184517:1" rendition="simple:additions"/>
+            <head>A <hi>Deſcent from France:</hi> OR, THE French INVASION of England, CONSIDERED and DISCOURS'D. LICENS'D, May 10. 1692.</head>
+            <p>THat there is, or at leaſt has been, an in<g ref="char:EOLhyphen"/>tended Invaſion from <hi>France,</hi> Headed by King <hi>James,</hi> is too apparent; and that the greateſt Encouragement to ſuch an Undertaking, muſt be the expected, if not pro<g ref="char:EOLhyphen"/>miſed Succours ready to join him upon the Deſcent, is as plainly evident. Now that there can be ſuch a Party of <hi>Engliſhmen,</hi> and thoſe profeſſing them<g ref="char:EOLhyphen"/>ſelves Proteſtants too, (for the <hi>Romaniſts</hi> are no part of our wonder) whoſe Reaſons and Senſe can be ſo loſt and depraved, as to conſpire with ſuch a Deſign, is not a little ſtupendious.</p>
+            <p>The buſineſs of this Paper therefore, is to exa<g ref="char:EOLhyphen"/>mine, What Conſequences they can expect from the Succeſs of ſuch an Invaſion; and what Patriots they ſhall make themſelves, in Aſſiſting the Return of King <hi>James?</hi>
+            </p>
+            <p>In the firſt place, Do they flatter themſelves, be<g ref="char:EOLhyphen"/>cauſe, forſooth, the greateſt part of our Invaders, for the more plauſible pretext, are compoſed of <hi>Engliſh, Scotch,</hi> and <hi>Iriſh,</hi> Natives and Subjects to the Crowns of <hi>England,</hi> that therefore King <hi>James</hi>'s Service (ſo poor a mask) is all the buſineſs of this Expedition? Have we forgot ſince ſo lately in <hi>Ireland,</hi> the <hi>French</hi> King could hardly hold the Vi<g ref="char:EOLhyphen"/>zor on till the Conqueſt of that Kingdom, where the very <hi>Iriſh</hi> themſelves began to be jealous (and with too much cauſe) of their pretended Friends, but intended Lords, the <hi>French?</hi> And that no <hi>An<g ref="char:EOLhyphen"/>guis in Herbâ,</hi> no <hi>French</hi> Reſerve lies at the bottom of this Invaſion.</p>
+            <p>
+               <hi>Secondly,</hi> Do they think this Succour to King <hi>James,</hi> tho in ſo important a Service as Reſettling him upon his Throne, can deſerve any grateful Re<g ref="char:EOLhyphen"/>turn? and upon that Encouragement they found the Safety of their Religion and Liberties, in any Promiſes of Security from that Obligation. Alas! is it ſo late ſince woful Experience convinced them, that Acknowledgment or Gratitude, are no part of a Popiſh King's Principle; witneſs, the unkind re<g ref="char:EOLhyphen"/>turn he made to that very <hi>Church of England,</hi> that more than <hi>once,</hi> were ſo exemplarily zealous for ſecuring the Crown upon his Head, in their ſtrenuous oppoſition againſt both the <hi>Bill of Excluſion,</hi> and <hi>Monmouth</hi>'s <hi>Inſurrection.</hi> And if both thoſe deſerving Services, thoſe accumu<g ref="char:EOLhyphen"/>lated Obligations were ſuch feeble Cobweb-Lawn; ſhall any thing done in his Service now, make a ſtronger Tye upon him? No, quite to the contrary. For example, The Church of <hi>England</hi> had then twice obliged him, and never once of<g ref="char:EOLhyphen"/>fended him; beſides, there was not only a Corona<g ref="char:EOLhyphen"/>tion <hi>Oath,</hi> but his firſt voluntary <hi>Declaration</hi> at his aſſumption of the Government; one would reaſo<g ref="char:EOLhyphen"/>nably think enough to bind him to Performance. But how little all thoſe Bonds ſignifie, when the Cancelling Hand of <hi>Rome</hi> came into Play; we have but too much reaſon to remember. And if all thoſe Tyes, I ſay, could not hold then; what can we hope for, when there neither is, nor can be any Tye at all to hold him now? For example; ſuppoſe the blind and miſtaken Frenzy of ſome of our Proteſtant Zealots, (if that name can be proper for them), could remo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> him to his Throne; what ſhall they deſerve for it, any more than the Title of <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>p<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>f<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ble Servants?</hi> Their <hi>turning him out</hi> from the Throne, together with the remembrance of the dear <hi>Iriſh</hi> Blood ſhed by them, and the reſt of our Faults, are ſuch Capital Tranſgreſſions, that the <hi>reſtoring him into it again,</hi> will not be half our Expiation. And ſuppoſing he Publiſhes the moſt mollyfying Declaration upon his Landing, that all the Eloquence of <hi>Rome</hi> can put together; ſhall that oblige him? No, ſo far from it, that it neither is, nor can be any more than a ſcroll of waſt Paper. For ſuppoſing the Contents of it ſhould run in theſe flattering Inſinuations, <hi>viz.</hi> What wondrous Clemency he would ſhew us upon our return to our Allegiance, and with what Moderation he would Reign over us, upon our re-admitting of him to his Throne, with all the moſt ſolemn Proteſtations, and what not. Now as 'tis unlikely that King <hi>James</hi> ſhould ever return without <hi>Oppoſition,</hi> and undoubted<g ref="char:EOLhyphen"/>ly a very ſtrenuous one; it being impoſſible we ſhould be all drawn in with the ſpecious Bait of ſweet words, and fair Promiſes; and conſequently, he muſt have a Blow for it. Suppoſing, nevertheleſs, I ſay, his Party ſo ſtrong, and his Succeſs ſo great, as to recover his Kingdoms: Upon ſuch a recove<g ref="char:EOLhyphen"/>ry, whatever he promiſes in his Declaration, is from that Moment, null and void. For the Conſide<g ref="char:EOLhyphen"/>ration is not performed, and conſequently, the Ob<g ref="char:EOLhyphen"/>ligation cancell'd. For inſtance, he comes not in by our <hi>Submiſſion,</hi> and <hi>return to our Allegiance,</hi> but by <hi>Force</hi> and <hi>Conqueſt.</hi> And as ſuch, not only his Declarations, but his very Coronation-Oath, without the ſtretch of a mental Reſervation, are all actu<g ref="char:EOLhyphen"/>ally <hi>abſolved.</hi> And if <hi>Law,</hi> nor <hi>Oaths, Service,</hi> nor <hi>Fidelity,</hi> as before-mentioned, were able to keep
+<pb facs="tcp:184517:2"/> his <hi>Romiſh</hi> Zeal in any Bounds or Limits before; what ſhall the looſening of 'em all expect now? And conſequently what driving <hi>Jehu</hi> muſt we look for, when that black Day comes, (which Heav'n of its mercy keep far from us.) And whatever private Gratuities or Favours ſome particular Emi<g ref="char:EOLhyphen"/>nent Proteſtant Hands may poſſibly receive for their ſignal Services in this Revolution, nothing of ſenſe but muſt conclude us the miſerableſt Nation and People in the World.</p>
+            <p>Beſides, could we look for Miracles, and expect a Reign of Clemency from him, our <hi>Religion</hi> and <hi>Civil Rights</hi> ſecured; what a Crew of <hi>Iriſh</hi> Dear-Joys that come over with him, are here to be rewarded, all Preferment and Honours, nay, the fat of the Land to be canton'd out amongſt them: And conſe<g ref="char:EOLhyphen"/>quently the Power in theſe confiding Hands, the whole Nobility, Gentry and Commonalty of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> muſt live under the check and awe of Tories and Rapparees, and ſubmit to all the Inſults of Miſcreants and Vagrants; and well we compound ſo cheap.</p>
+            <p>Nay, though ſome People fancy we ſhall at leaſt enjoy this Bleſſing of being eaſed from Taxes by his Return; 'tis ſo much a miſtake, that in the other Extream, that very ſhadow vaniſhes too. For what muſt this Expedition coſt the <hi>French</hi> King, and what muſt all his <hi>Iriſh</hi> Arrears, and other infinite unacountable Sums amount to, which muſt all lie upon this ruin'd Nation to ſatisfy, with a very courteous Complement into the Bargain, if the <hi>French</hi> King will graciouſly and mercifully pleaſe to de<g ref="char:EOLhyphen"/>mand no more. Nay, perhaps the whole Charge of his ſeveral Years Naval Preparation; (for had King <hi>James</hi> continued on his Throne, moſt of all that Expence had been ſaved) muſt lie at our Door, a Score too terrible even to think of; and take it altogether, a very grateful Payment out of the Proteſtant Pockets to ſo prodigious a Champion of the Proteſtant Religion, as King <hi>L<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>s.</hi>
+            </p>
+            <p>But for once (though contrary to common ſenſe) granting we ſhould allow all in his Favour, that the moſt zealous <hi>Jacobite</hi> can pretend, <hi>viz.</hi> That King <hi>James</hi> upon his return to the Throne, ſhall to a tittle perform every particular Article in his very Declaration, as plauſible ſoever as it may be penned, <hi>viz.</hi> We'll ſuppoſe, that the <hi>French</hi> King ſhall diſ<g ref="char:EOLhyphen"/>claim, directly or indirectly, all Pretenſions what<g ref="char:EOLhyphen"/>ever to <hi>England,</hi> that the Reſtoration of his Friend King <hi>James</hi> is his only part and deſign in this Expe<g ref="char:EOLhyphen"/>dition; and King <hi>James</hi> on the other ſide, ſhall ab<g ref="char:EOLhyphen"/>jure all manner o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> violation to the Laws, ſhall ſup<g ref="char:EOLhyphen"/>port the Proteſtant Religion, and (making a Sea<g ref="char:EOLhyphen"/>mark of his former Wreck,) ſhall peaceably keep up to the full obſervance of ſo generous a Profeſſion: granting all this, I ſay, and whatever other imagi<g ref="char:EOLhyphen"/>nary Security his dreaming Party can form to them<g ref="char:EOLhyphen"/>ſelves; nevertheleſs, in the faireſt Face, let us ob<g ref="char:EOLhyphen"/>ſerve the diſmal and tremendous Effects of his Re<g ref="char:EOLhyphen"/>ſtoration. 'Tis known to the whole World to what the <hi>French</hi> Ambition tends, <hi>viz.</hi> Univerſal Monarchy. And 'tis as notoriouſly famous what Deſolations and Ravages the Arms of <hi>France</hi> have made, and how formidable that Succeſsful Deſtroyer is, even to the whole united Powers of <hi>Europe.</hi> And as his preſent Majeſty King <hi>William,</hi> is, poſſibly, (without a vani<g ref="char:EOLhyphen"/>ty) the Leading Champion of the whole Confedera<g ref="char:EOLhyphen"/>cy, and all little enough to make head againſt <hi>France;</hi> upon King <hi>James</hi>'s return to the Throne, here is not only ſo potent an Arm as the Alli<g ref="char:EOLhyphen"/>ance of <hi>Britain</hi> lopt off from the Confederacy, but added to the Strength of <hi>France.</hi> For tho in his Reign before, he only ſtood Neuter, with little or no other Aſſiſtance to his Idoliz'd Grand <hi>Lewis,</hi> than his heartieſt Vows and Prayers for the ſuc<g ref="char:EOLhyphen"/>ceſs and proſperity of that encroaching Enſlaver of Mankind: Yet now he will lie under a more preſ<g ref="char:EOLhyphen"/>ſing obligation; and the leaſt return even of com<g ref="char:EOLhyphen"/>mon Gratitude for his remounting him on his Throne, will be to liſt under that Tyrant's Standard, and joyning the Arms of <hi>England,</hi> to the finiſhing and crowning the whole Deſigns of that univerſal Aſpirer. And as the whole Confederacy already, is little enough to match him; upon this Revolution in <hi>England,</hi> 'tis impoſſible to ex<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ect leſs than that the whole Cauſe of <hi>Chriſtendom</hi> muſt ſink, and all <hi>Eur<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pe</hi> truckle beneath him. And whilſt the <hi>Engliſh</hi> hands muſt be<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſo great a part in th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s fatal Turn (to give it no harder Name) what is it but a making our ſelves the Monſters of Mank<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd, the inevitable inſtruments and Tools to that grand Cut-throat of <hi>Chriſtend<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m.</hi> And what has ſome little palliation on his ſide, as having the pretence of Renown and Honour, in the Queſt of Laurels and Enl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rgement of Empire, <hi>&amp;c.</hi> will on our part amount only to Butchery and Deſolation, for meer Butchery and Deſolations ſake. The Gl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry, if any, will be <hi>Lew<g ref="char:EOLhyphen"/>is</hi>'s, and the Infamy <hi>England</hi>'s. Infamy indeed, (if we meet with no worſe Reward) when we conſider what barbarous part we muſt act in the yoking and ſhackling of <hi>Europe.</hi> But ſuppoſe it end<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> there, and that will be the only Brand in the <hi>Engliſh</hi> Scutche<g ref="char:EOLhyphen"/>on: And that <hi>Lewis</hi> in his graſp of Univerſal Em<g ref="char:EOLhyphen"/>pire, ſhall exclude <hi>England</hi> from any part of his Feu<g ref="char:EOLhyphen"/>datories, and Tr butaries, <hi>viz.</hi> he ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll make Gol<g ref="char:EOLhyphen"/>den Promiſes to King <hi>James,</hi> and once in his life (his firſt vertue of that kind) keep Faith, and no worſe follow, (a very unlikely Flattery:) yet what an Eternal Shame to the Old <hi>Engliſh</hi> Honour, the ſleeping Duſt of our Third <hi>Edward,</hi> and Fifth <hi>Hen<g ref="char:EOLhyphen"/>ry,</hi> and indeed the whole <hi>Britiſh</hi> Chronicles, is our portion, in aggrand<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>zing of <hi>France</hi> to that prodigi<g ref="char:EOLhyphen"/>ous Bulk and Growth, and dwindling our ſelves to that diminutive and deſpicable ſtate and conditi<g ref="char:EOLhyphen"/>on, as are and muſt be the unavoidable conſequen<g ref="char:EOLhyphen"/>ces of King <hi>James</hi>'s Reſtoration.</p>
+            <p>Granting the <hi>Jacobites</hi> therefore, all their own Deluſions can ſhape, that King <hi>James</hi> ſhall forget and forgive; ſhall rule by Law, and turn a Saint upon a Throne: And that the diſintereſted <hi>Lewis</hi> ſhall have no other Deſigns upon <hi>England,</hi> but pure<g ref="char:EOLhyphen"/>ly King <hi>James</hi>'s Aſſiſtance; yet ſtill the moſt they can look for, is perhaps, to enjoy a little <hi>Engliſh</hi> Liberty (upon their own ſuppoſition) during the ſhort Remnant of King <hi>James</hi>'s Days, whilſt his Gray Hairs, perhaps, ſhall fill the Seat: But I won<g ref="char:EOLhyphen"/>der any reaſonable man, that pretends but to com<g ref="char:EOLhyphen"/>mon Senſe, can think it poſſible that <hi>France</hi> ſhould en<g ref="char:EOLhyphen"/>groſs the Dominion of <hi>Europe,</hi> and <hi>England</hi> ever hope to continue the only Exempt from the Univerſal Yoke; Is there that Frenzy ſo mad as to fancy it? No, all our beſt Hopes will be to be ſwallow'd laſt, and the annexing of <hi>Brittain,</hi> a Province to <hi>France;</hi> and conſequently to groan under all the Slavery and Vaſſallage of a <hi>French</hi> Government, is the undoubted Fate of <hi>England;</hi> and hereby the Reſtoration of King <hi>James,</hi> in its favourableſt Aſpect, brings no leſs Fa<g ref="char:EOLhyphen"/>tality along with it, than entailing of Miſery upon us to the end of the World; and all the Honour our Pro<g ref="char:EOLhyphen"/>teſtant Reſtorers will reap, is to be the Ruine and Curſe of their whole Poſterity, their very Names and Memories loath'd and abhorr'd to all ſucceed<g ref="char:EOLhyphen"/>ing Generations.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London: <hi>Printed for</hi> Richard Humphryes, <hi>near the</hi> Oxford-Arms <hi>in</hi> Warwick-Lane. 1692.</p>
+            <pb facs="tcp:184517:2"/>
+            <pb facs="tcp:184517:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:184517:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:184517:4"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:184517:4"/>
+         </div>
+      </back>
+   </text>
+</TEI>
